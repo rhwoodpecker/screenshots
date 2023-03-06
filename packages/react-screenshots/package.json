@@ -1,6 +1,6 @@
 {
   "name": "react-screenshots",
-  "version": "0.5.15",
+  "version": "0.5.18",
   "description": "a screenshot cropper tool by react",
   "main": "./lib/react-screenshots.cjs.js",
   "module": "./lib/react-screenshots.es.js",
@@ -39,8 +39,8 @@
     "registry": "https://registry.npmjs.org/"
   },
   "peerDependencies": {
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react": "^16.8 || ^17.0",
+    "react-dom": "^16.8 || ^17.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.38",
